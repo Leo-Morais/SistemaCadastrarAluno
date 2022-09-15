@@ -1,0 +1,15 @@
+C:\Users\leovg\Documents\Sistema-Alunos\bin\Debug\net6.0\Sistema-Alunos.exe
+C:\Users\leovg\Documents\Sistema-Alunos\bin\Debug\net6.0\Sistema-Alunos.deps.json
+C:\Users\leovg\Documents\Sistema-Alunos\bin\Debug\net6.0\Sistema-Alunos.runtimeconfig.json
+C:\Users\leovg\Documents\Sistema-Alunos\bin\Debug\net6.0\Sistema-Alunos.dll
+C:\Users\leovg\Documents\Sistema-Alunos\bin\Debug\net6.0\Sistema-Alunos.pdb
+C:\Users\leovg\Documents\Sistema-Alunos\obj\Debug\net6.0\Sistema-Alunos.csproj.AssemblyReference.cache
+C:\Users\leovg\Documents\Sistema-Alunos\obj\Debug\net6.0\Sistema-Alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leovg\Documents\Sistema-Alunos\obj\Debug\net6.0\Sistema-Alunos.AssemblyInfoInputs.cache
+C:\Users\leovg\Documents\Sistema-Alunos\obj\Debug\net6.0\Sistema-Alunos.AssemblyInfo.cs
+C:\Users\leovg\Documents\Sistema-Alunos\obj\Debug\net6.0\Sistema-Alunos.csproj.CoreCompileInputs.cache
+C:\Users\leovg\Documents\Sistema-Alunos\obj\Debug\net6.0\Sistema-Alunos.dll
+C:\Users\leovg\Documents\Sistema-Alunos\obj\Debug\net6.0\refint\Sistema-Alunos.dll
+C:\Users\leovg\Documents\Sistema-Alunos\obj\Debug\net6.0\Sistema-Alunos.pdb
+C:\Users\leovg\Documents\Sistema-Alunos\obj\Debug\net6.0\Sistema-Alunos.genruntimeconfig.cache
+C:\Users\leovg\Documents\Sistema-Alunos\obj\Debug\net6.0\ref\Sistema-Alunos.dll
